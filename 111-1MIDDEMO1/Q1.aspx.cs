@@ -6,6 +6,7 @@ using System.Web.UI;
 using System.Web.UI.WebControls;
 
 
+
 //TODO 當tb_Account被按下enter判斷Text有沒有出現在s_Idset陣列,如果有出現就把lb_Tybe改成"複診",else改成"初診".pl_Msg.Visible=False
 
 //TODO if tb_Account=null,btn_Submit.Visivle=False,else,btn_Submit.Visivle=True
