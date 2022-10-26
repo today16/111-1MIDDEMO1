@@ -19,7 +19,7 @@
                 <asp:TextBox ID="tb_Account" runat="server" Height="20px" Width="400px" AutoPostBack="True" OnTextChanged="tb_Account_TextChanged"></asp:TextBox><br />
                 「電子信箱：(選填)」
                 <asp:TextBox ID="tb_Email" runat="server" Height="20px" Width="300px"></asp:TextBox>
-                <asp:Button ID="btn_Submit" runat="server" Text="Button" Visible="False" Width="80px" OnClick="btn_Submit_Click" />
+                <asp:Button ID="btn_Submit" runat="server" Text="掛號" Visible="False" Width="80px" OnClick="btn_Submit_Click" />
             </asp:Panel>
             <br />
             <asp:Panel ID="pl_Msg" runat="server" BorderWidth="1px" Visible="False" Width="500px">

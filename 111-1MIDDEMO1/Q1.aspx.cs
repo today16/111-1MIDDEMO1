@@ -38,6 +38,7 @@ namespace _111_1MIDDEMO1 {
                 else
                 {
                     btn_Submit.Visible = false;
+                    lb_Type.Text = "初診";
                 }
             }
             pl_Msg.Visible = false;
